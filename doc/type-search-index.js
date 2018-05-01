@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"prob1","l":"ClassFriend"},{"p":"prob1","l":"Friend"},{"p":"prob1","l":"Instanceof"},{"p":"<Unnamed>","l":"Library"},{"p":"<Unnamed>","l":"LibraryTest"},{"p":"prob1","l":"Main"},{"p":"prob1","l":"SchoolFriend"}]
