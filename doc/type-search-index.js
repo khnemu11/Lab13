@@ -1,1 +1,1 @@
-typeSearchIndex = [{"p":"prob4","l":"Animal"},{"p":"prob4","l":"Cat"},{"p":"prob4","l":"Dog"},{"p":"prob4","l":"Main"},{"p":"prob4","l":"Master"},{"p":"prob4","l":"Pet"}]
+typeSearchIndex = [{"p":"prob5","l":"Main"}]
