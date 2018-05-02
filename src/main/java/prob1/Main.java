@@ -15,9 +15,9 @@ public class Main {
 		SchoolFriend friend2 =new SchoolFriend(); //make instance of SchoolFriend
 		ClassFriend friend3 =new ClassFriend(); //make instance of ClassFriend
 		
-		Instanceof.WhatFriend(friend1); //distinguish friend1 used Instanceof.whatFriend
-		Instanceof.WhatFriend(friend2); //distinguish friend2 used Instanceof.whatFriend
-		Instanceof.WhatFriend(friend3); //distinguish friend3 used Instanceof.whatFriend
+		Instanceof.whatFriend(friend1); //distinguish friend1 used Instanceof.whatFriend
+		Instanceof.whatFriend(friend2); //distinguish friend2 used Instanceof.whatFriend
+		Instanceof.whatFriend(friend3); //distinguish friend3 used Instanceof.whatFriend
 	}
 
 }

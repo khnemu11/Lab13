@@ -11,7 +11,7 @@ public class Instanceof {
 	 * print what is instance of arguments
 	 * @param friend
 	 */
-	public static void WhatFriend(Friend friend) {
+	public static void whatFriend(Friend friend) {
 		if(friend instanceof ClassFriend) {
 			((ClassFriend)friend).classFriend(); //if friend is instance of ClassFriend, execute friend.classFriend
 		}
